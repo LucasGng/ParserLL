@@ -1,3 +1,4 @@
+# Drayan Silva Magalhães, João Vitor Zambão, Lucas Gabriel Nunes Geremias, Lucca Lucchin de Campos Costa 
 class ParserLL1:
     def __init__(self, tokens):
         self.tokens = tokens
