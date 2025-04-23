@@ -1,0 +1,7 @@
+6
+( \vee ( \wedge p q ) ( \rightarrow r s ) )
+( \neg 456 )
+( \wedge a ( \neg b ) )
+test!123
+( \rightarrow ( \vee x y ) ( \wedge z w ) )
+( \neg )

@@ -1,0 +1,6 @@
+5
+true
+( \vee false true )
+( \neg 123 )
+abc
+( \rightarrow ( \wedge a b ) c )

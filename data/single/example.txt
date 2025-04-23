@@ -1,0 +1,11 @@
+10
+true
+123abc
+( \neg false )
+( \wedge 1a 9z )
+( \rightarrow ( \neg true ) false )
+( \neg ( \vee x1 y2 ) )
+( \wedge true )
+false true
+( \neg
+123!

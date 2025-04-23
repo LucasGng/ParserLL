@@ -1,0 +1,9 @@
+8
+( \wedge ( \vee true false ) ( \neg true ) )
+abc123
+( \neg ( \neg ( \neg x ) ) )
+( \rightarrow )
+( \vee 1 2 )
+( \wedge ( \rightarrow a b ) ( \vee c d ) )
+true
+( \neg false )

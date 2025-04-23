@@ -1,0 +1,4 @@
+3
+( \vee a b c )
+123foo
+( \neg ( \rightarrow true false ) )
